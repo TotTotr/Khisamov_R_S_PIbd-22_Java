@@ -1,4 +1,4 @@
 
-public class Direction {
-
+public enum Direction {
+	Up, Down, Left, Right
 }
